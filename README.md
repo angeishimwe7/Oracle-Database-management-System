@@ -193,4 +193,7 @@ FROM STUDENT,GROUPS
 INNER JOIN STUDENT = Studentid
 ON GROUPS = Groupid;
 ```
+#RELAIONSHIP OF TABLE
 
+
+[Alt text](image3.JPEG)
